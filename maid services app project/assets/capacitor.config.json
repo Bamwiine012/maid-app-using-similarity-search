@@ -1,0 +1,12 @@
+{
+	"appId": "com.cleaningservices",
+	"appName": "V1 Cleaners",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"plugins": {
+		"SplashScreen": {
+			"showSpinner": true,
+			"launchShowDuration": 5000
+		}
+	}
+}
